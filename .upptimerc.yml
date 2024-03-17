@@ -7,7 +7,7 @@ sites:
     url: $DASHBOARD_URL
   - name: Libra Test Dashboard
     url: $TEST_DASHBOARD_URL
-  - name: test2 downtime
+  - name: test24 downtime
     url: https://www.sadasdasZZZZdsa.com
 
 status-website:
