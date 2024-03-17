@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 482,
-    "timeWeek": 482,
-    "timeMonth": 482,
-    "timeYear": 482,
+    "time": 462,
+    "timeDay": 462,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 427,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "test24 downtime",
-    "url": "https://www.sadasdasZZZZdsa.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.sadasdaszzzzdsa.com.ico",
-    "slug": "test24-downtime",
-    "status": "down",
-    "uptime": "7.89%",
-    "uptimeDay": "7.89%",
-    "uptimeWeek": "7.89%",
-    "uptimeMonth": "7.89%",
-    "uptimeYear": "7.89%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-03-17": 0
-    }
   }
 ]
