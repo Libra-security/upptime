@@ -22,17 +22,19 @@
     "url": "$TEST_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "libra-test-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 610,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
-    "dailyMinutesDown": {}
+    "time": 479,
+    "timeDay": 563,
+    "timeWeek": 479,
+    "timeMonth": 479,
+    "timeYear": 479,
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   }
 ]
