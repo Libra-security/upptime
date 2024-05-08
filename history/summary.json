@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "libra-prod-dashboard",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 685,
-    "timeDay": 745,
-    "timeWeek": 799,
-    "timeMonth": 802,
-    "timeYear": 685,
-    "dailyMinutesDown": {
-      "2024-05-07": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 687,
+    "timeDay": 758,
+    "timeWeek": 803,
+    "timeMonth": 800,
+    "timeYear": 687,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Libra Test Dashboard",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 508,
-    "timeDay": 507,
-    "timeWeek": 525,
-    "timeMonth": 523,
+    "timeDay": 503,
+    "timeWeek": 542,
+    "timeMonth": 522,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2024-03-21": 16
