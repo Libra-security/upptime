@@ -4,19 +4,19 @@
     "url": "$DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "libra-prod-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 1034,
-    "timeWeek": 727,
-    "timeMonth": 738,
-    "timeYear": 716,
+    "time": 742,
+    "timeDay": 2311,
+    "timeWeek": 1085,
+    "timeMonth": 827,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 4
     }
   },
   {
