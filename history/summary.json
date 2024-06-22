@@ -4,7 +4,7 @@
     "url": "$DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "libra-prod-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 727,
     "timeMonth": 738,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-22": 0
+    }
   },
   {
     "name": "Libra Test Dashboard",
