@@ -1,7 +1,7 @@
 url: $TEST_DASHBOARD_URL
 status: up
 code: 200
-responseTime: 527
-lastUpdated: 2024-07-01T23:14:09.727Z
+responseTime: 515
+lastUpdated: 2024-07-02T23:13:35.548Z
 startTime: 2024-03-17T09:24:54.840Z
 generator: Upptime <https://github.com/upptime/upptime>
